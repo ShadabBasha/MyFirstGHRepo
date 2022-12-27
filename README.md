@@ -1,2 +1,2 @@
-# MyFirstGHProject
-My first GitHub Project
+# MyFirstGHRepo
+My first GitHub Repo
